@@ -1,8 +1,6 @@
+package days3_tipedatanonprimiti;
 
-package days3_tipedatanonprimitif;
-
-
-public class Days3_TIpeDataNonPrimitif {
+public class Days3_TipeDataNonPrimiti {
 
     public static void main(String[] args) {
         String nama = "wanti";
@@ -13,7 +11,7 @@ public class Days3_TIpeDataNonPrimitif {
         Double e = 1.000;
         Float f = 9.99f;
         Boolean bilangan = true;
-        long [] arraytahun = {2023};
+        long[] arraytahun = {2023};
     }
-    
+
 }
